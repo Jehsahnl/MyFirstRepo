@@ -1,0 +1,1 @@
+My ultimate goal in this course is to be able to understand where potential problems in my code could stem from. Understanding how the code works makes understanding why yours doesn't is a huge benifit when tackling web development, and any coding project in general.
